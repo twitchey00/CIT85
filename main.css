@@ -1,0 +1,33 @@
+     *{margin: 50px; }
+
+    header  {
+        width: 50%;
+        height: 50px;
+        background-color:rgb(44, 193, 212);
+        font-size: x-large;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+
+    section {
+        width: 85%;
+        height: 50px;
+        background-color: rgb(165, 203, 206);
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-weight: 100;
+        font-size:xx-large;
+    }
+
+    article {
+        width: 85%;
+        height: 100%;
+        background-color: rgb(97, 201, 214);
+        font: x-large;
+    }
+
+    aside   {
+        width: 100%;
+        height: 100%;
+        background-color: rgb(255, 255, 255);
+        font-style:normal
+        font: x-large;
+    }
