@@ -1,33 +1,39 @@
-     *{margin: 50px; }
+{ margin: 50px; }
 
-    header  {
-        width: 50%;
-        height: 50px;
-        background-color:rgb(44, 193, 212);
-        font-size: x-large;
-        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    }
+header {
+    width: 50%;
+    height: 50px;
+    background-color: rgb(0, 0, 0);
+    color: antiquewhite;
+    font-size:x-large;
 
-    section {
-        width: 85%;
-        height: 50px;
-        background-color: rgb(165, 203, 206);
-        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-        font-weight: 100;
-        font-size:xx-large;
-    }
+}
 
-    article {
-        width: 85%;
-        height: 100%;
-        background-color: rgb(97, 201, 214);
-        font: x-large;
-    }
+section {
+    width: 50%;
+    height: 100%;
+    background-color: rgb(135, 135, 168);
+}
 
-    aside   {
-        width: 100%;
-        height: 100%;
-        background-color: rgb(29, 182, 209);
-        font-style:normal
-        font: x-large;
-    }
+article {
+    width: 50%;
+    height: 100%;
+    background-color: rgb(136, 22, 202);
+    color:darkgrey
+}
+
+aside {
+    width: 50%;
+    height: 100%;
+    background-color: rgb(26, 29, 77);
+    color:darkgrey
+
+
+}
+
+
+footer {
+    width: 50%;
+    height: 100%;
+    background-color: rgb(76, 167, 162);
+}
