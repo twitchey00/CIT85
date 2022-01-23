@@ -1,5 +1,23 @@
 { margin: 50px; }
 
+
+a:visited {
+    background-color: rgb(91, 171, 177);
+    border-color: rgb(253, 251, 252);
+    color: rgb(255, 255, 255);
+  }
+
+
+  a:active {
+    color: rgb(255, 0, 0);
+  }
+
+  @media (hover: hover) {
+    a:hover {
+      background: rgb(152, 187, 24);
+    }
+  }
+
 header {
     width: 50%;
     height: 50px;
@@ -12,25 +30,23 @@ header {
 section {
     width: 50%;
     height: 100%;
-    background-color: rgb(135, 135, 168);
+    background-color: rgb(197, 180, 29);
+   
 }
 
 article {
     width: 50%;
     height: 100%;
-    background-color: rgb(136, 22, 202);
-    color:darkgrey
+    background-color: rgb(219, 198, 78);
+    color:rgb(0, 0, 0)
 }
 
 aside {
     width: 50%;
     height: 100%;
-    background-color: rgb(26, 29, 77);
-    color:darkgrey
-
-
+    background-color: rgb(110, 111, 128);
+    color:rgb(255, 255, 255)
 }
-
 
 footer {
     width: 50%;
