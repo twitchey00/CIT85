@@ -1,0 +1,79 @@
+{ margin: 50px; }
+
+li:last-child{
+  color: blueviolet;
+}
+li:nth-child(even){
+  color:chartreuse
+}
+li:nth-child(odd){
+  color:hotpink
+}
+
+li:nth-child(3){
+  color:rgb(253, 251, 252)
+}
+
+li:only-child{
+  color:sandybrown
+}
+
+li:nth-child(anb){
+  color:royalblue
+}
+li:first-child{
+  color:rgb(255, 0, 0)
+}
+
+a:visited {
+    background-color: rgb(91, 171, 177);
+    border-color: rgb(253, 251, 252);
+    color: rgb(255, 255, 255);
+  }
+
+
+  a:active {
+    color: rgb(255, 0, 0);
+  }
+
+  @media (hover: hover) {
+    a:hover {
+      background: rgb(28, 16, 190);
+    }
+  }
+
+header {
+    width: 50%;
+    height: 50px;
+    background-color: rgb(0, 0, 0);
+    color: antiquewhite;
+    font-size:x-large;
+
+}
+
+section {
+    width: 50%;
+    height: 100%;
+    background-color: rgb(3, 97, 121);
+   
+}
+
+article {
+    width: 50%;
+    height: 100%;
+    background-color: rgb(146, 72, 29);
+    color:rgb(0, 0, 0)
+}
+
+aside {
+    width: 50%;
+    height: 100%;
+    background-color: rgb(110, 111, 128);
+    color:rgb(255, 255, 255)
+}
+
+footer {
+    width: 50%;
+    height: 100%;
+    background-color: rgb(45, 99, 96);
+}
