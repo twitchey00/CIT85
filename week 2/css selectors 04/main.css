@@ -1,0 +1,17 @@
+* {background-color: rgb(255, 255, 255)}
+
+div p {
+    color:rgb(3, 0, 175)
+}
+
+div >p {
+    color:rgb(163, 0, 0)
+}
+
+div ~p {
+    color:turquoise
+}
+
+div +p {
+    color:peru
+}
