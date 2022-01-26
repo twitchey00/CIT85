@@ -1,0 +1,19 @@
+.title {
+    font-size: xx-large;
+    font-style: oblique;
+    color: rgb(0, 5, 75)
+}
+
+.intro {
+    color:rgb(0, 0, 0)
+}
+
+.mean {
+    color:rgb(225, 65, 65);
+    font-style:normal;
+    font-size: x-large;
+}
+
+.score {
+    font-weight:500
+}
