@@ -1,5 +1,14 @@
 { margin: 50px; }
 
+p::first-letter {
+  font-family: cursive;
+  font-size: 36px;
+}
+p::first-line {
+  color: rgb(238, 255, 0);
+  font-weight: 600;
+}
+
 li:first-child{
   color:rgb(255, 0, 0)
 }
