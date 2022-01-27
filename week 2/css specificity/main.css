@@ -8,7 +8,7 @@ div{
 .title {
     font-size: xx-large;
     font-style: oblique;
-    color: rgb(0, 5, 75);
+    color: rgb(4, 131, 153);
 }
 
 .intro {
@@ -17,7 +17,7 @@ div{
 }
 
 .mean {
-    color:rgb(225, 65, 65);
+    color:rgb(65, 148, 225);
     font-style:normal;
     font-size: x-large;
 }
@@ -25,7 +25,7 @@ div{
 .score {
     font-weight:500
 }
-
+/* I'm not sure if I should be identifying these, if that is what you meant by comment? */
 #last {
-    color:rgb(3, 1, 77)
+    color:rgb(0, 0, 0)
 }
