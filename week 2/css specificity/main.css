@@ -1,11 +1,19 @@
+
+div{
+    width:75%;
+    Height:100%;
+    border: 1px solid rgb(0, 0, 0);
+}
+
 .title {
     font-size: xx-large;
     font-style: oblique;
-    color: rgb(0, 5, 75)
+    color: rgb(0, 5, 75);
 }
 
 .intro {
     color:rgb(0, 0, 0)
+    width:50px
 }
 
 .mean {
@@ -16,4 +24,8 @@
 
 .score {
     font-weight:500
+}
+
+#last {
+    color:rgb(3, 1, 77)
 }
