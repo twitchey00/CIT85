@@ -1,0 +1,32 @@
+
+
+
+h1{
+    font-weight: bold;
+    font-size: xx-large
+}
+div {
+    width: auto;
+    height: auto; 
+
+}
+
+.about {
+    width: 80%;
+    font-family: serif;
+    text-align: center;
+}
+
+p {
+    width:75%
+}
+
+img {
+    width: 40%;
+    height: 40%;
+    border: 5px double rgb(59, 91, 139)
+}  
+.german {
+    font-size:;
+    text-align:center   
+}
