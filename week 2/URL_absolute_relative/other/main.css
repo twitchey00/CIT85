@@ -22,8 +22,8 @@ p {
 }
 
 img {
-    width: 40%;
-    height: 40%;
+    width: auto;
+    height: auto;
     border: 5px double rgb(59, 91, 139)
 }  
 .german {
