@@ -48,3 +48,9 @@ a:hover {
     font-family: serif;
     text-decoration:line-through;
 }
+
+.img {
+    border: 5px solid black;
+    text-align: center;
+    height: 50%
+}
