@@ -45,5 +45,6 @@ a:hover {
 }
 
 .seaworld {
+    font-family: serif;
     text-decoration:line-through;
 }
