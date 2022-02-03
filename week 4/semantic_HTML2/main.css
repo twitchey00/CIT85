@@ -45,3 +45,7 @@ a:link {
 a:hover {
     text-decoration: underline;
 }
+
+.copyright{
+    font-size:smaller
+}
