@@ -7,6 +7,7 @@ body {
     margin: 0 auto;
     height: 80%;
     width: 65%;
+    padding:auto;
     background-color:rgb(77, 202, 45);
 
 }
@@ -15,6 +16,7 @@ body {
     margin: 0 auto;
     height: 35%;
     width: 35%;
+    padding: auto;
     border: 8px groove rgb(223, 223, 4);
     border-radius: 50%;
     background-image: url(./glossary-of-surfing.jpg);
@@ -26,6 +28,7 @@ body {
 .header1{
     margin: 0 auto;
     display: inline-block;
+    padding: auto;
     font-size: 35px;
     font-family:'Times New Roman', Times, serif;
     color:blue;
@@ -35,6 +38,7 @@ body {
 .header2{
     margin: 0 auto;
     display: inline-block;
+    padding: auto;
     font-size: 35px;
     font-family:'Times New Roman', Times, serif;
     color:red;
