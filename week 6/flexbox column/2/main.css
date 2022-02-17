@@ -1,0 +1,54 @@
+
+div {
+    border:2px solid rgb(18, 140, 211);
+    width: 100%;
+    height: 100%;
+    display:flex;
+    flex-direction:column;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 800;
+    flex-wrap: no-wrap;
+   
+}
+
+.box1 {
+    margin: 1%;
+    width: 100px;
+    height: 100px;
+    padding: 1em;
+    background-color: aquamarine;
+    border: 3px solid rgb(17, 17, 138);
+    font-size: 30px;
+    align-items: center;
+    align-self: center;
+       
+}
+
+
+.box2 {
+    width: 100px;
+    height: 100px;
+    margin: 1%;
+    padding: 1em;
+    background-color: aquamarine;
+    border: 3px solid rgb(17, 17, 138);
+    font-size: 30px;
+    align-items: center;
+    align-self: center;
+    
+  
+}
+
+
+.box3 {
+    width: 100px;
+    height: 100px;
+    margin: 1%;
+    padding: 1em;
+    background-color: aquamarine;
+    border: 3px solid rgb(17, 17, 138);
+    font-size: 30px;
+    align-items: center;
+    align-self: center;
+    
+}
