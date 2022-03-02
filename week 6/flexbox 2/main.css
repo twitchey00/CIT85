@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    /* flex-wrap: wrap; */
+    align-content: flex-start;
+}
+
+.flex-one {
+    border: 2px solid black;
+    width: 400px;
+    flex-grow: 1;
+}
+
+.flex-two {
+    border: 2px solid black;
+    width: 400px;
+    flex-grow: 2;
+}
