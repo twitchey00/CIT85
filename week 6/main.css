@@ -10,7 +10,8 @@
     font-family: Arial, Helvetica, sans-serif; 
     box-sizing: border-box;
     align-content: flex-start;
-    /* justify-content: center; */
+    justify-content: center;
+    align-items: center;
 }
 
 
