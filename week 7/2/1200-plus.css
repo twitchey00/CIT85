@@ -1,0 +1,34 @@
+.one {
+   flex-grow: 3;
+    flex-wrap: wrap;
+    width: 100%;
+    flex-direction: column;
+}
+
+.two {
+    flex-grow:5;
+    flex-wrap: wrap;
+    width: 100%;
+    flex-direction: column; 
+}
+
+.three {
+   flex-grow: 3;
+    flex-wrap: wrap;
+    width: 100%;
+    flex-direction: column;
+}
+
+.four {
+   flex-grow: 3;
+    flex-wrap: wrap;
+    width: 100%;
+    flex-direction: column;
+}
+
+.five {
+   flex-grow: 3;
+    flex-wrap: wrap;
+    width: 100%;
+    flex-direction: column;
+}
