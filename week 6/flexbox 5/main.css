@@ -1,0 +1,40 @@
+body {
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    color: white;
+    justify-content: center;  
+    align-items: flex-start;
+}
+
+
+.red {
+    border: 3px solid red;
+    height: 350px;
+    width: 600px;
+    justify-content: center;
+}
+
+.one {
+    background-color: #003476;
+    height: 355px;
+    width: 300px;
+    justify-content: center;
+}
+
+.two {
+    background-color: #0062d2;
+    height: 180px;
+    width: 600px;
+    justify-content: center;
+    
+
+}
+
+.three {
+    background-color: #b4d2f7;
+    height: 170px;
+    width: 600px;
+    justify-content: center;
+    
+}
