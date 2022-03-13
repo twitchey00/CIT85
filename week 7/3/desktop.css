@@ -1,0 +1,15 @@
+
+
+body {
+    flex-direction: row;
+}
+
+
+li {
+    flex-wrap: wrap;
+}
+
+nav {
+    flex-wrap: nowrap;
+
+}

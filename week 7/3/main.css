@@ -1,0 +1,17 @@
+body {
+    margin: 0 auto;
+    display: flex;
+    border: 3px solid rgb(223, 117, 135);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    list-style: none;
+    
+
+}
+
+nav {
+    border: 2px solid red;
+    font-size: medium;
+    text-align: center;
+    padding: 15px;
+    display: inline;
+}

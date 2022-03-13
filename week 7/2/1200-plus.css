@@ -1,34 +1,41 @@
-.one {
-   flex-grow: 3;
+.div {
+    display: flex;
+    flex-direction: row;
     flex-wrap: wrap;
-    width: 100%;
-    flex-direction: column;
+    align-content:flex-start;
+
+
+}.one {
+   /* flex-grow: 5; */
+    flex-wrap: wrap;
+    width: 100%;    
+    
 }
 
 .two {
-    flex-grow:5;
+    /* flex-grow: 5; */
     flex-wrap: wrap;
-    width: 100%;
-    flex-direction: column; 
+    width: 60%;
+  
 }
 
 .three {
-   flex-grow: 3;
+   /* flex-grow: 5; */
+   flex-direction: row;
     flex-wrap: wrap;
-    width: 100%;
-    flex-direction: column;
+    width: 39.7%;
+ 
 }
 
 .four {
-   flex-grow: 3;
+   /* flex-grow: 5; */
+   flex-direction: row;
     flex-wrap: wrap;
-    width: 100%;
-    flex-direction: column;
+    width: 40%;
 }
 
 .five {
-   flex-grow: 3;
+   /* flex-grow: 5; */
     flex-wrap: wrap;
-    width: 100%;
-    flex-direction: column;
+    width: 59.7%;
 }
