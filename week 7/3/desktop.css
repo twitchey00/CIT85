@@ -1,15 +1,17 @@
 
 
 body {
-    flex-direction: row;
+    /* flex-direction: row; */
+    list-style-type: none;
 }
 
 
-li {
+ul {
     flex-wrap: wrap;
 }
 
 nav {
-    flex-wrap: nowrap;
+    display: flex;
+   flex-wrap: nowrap;
 
 }

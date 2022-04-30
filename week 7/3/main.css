@@ -1,17 +1,27 @@
 body {
-    margin: 0 auto;
+    margin: 0;
+    padding: 0;
+    border: 0;
     display: flex;
-    border: 3px solid rgb(223, 117, 135);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    list-style: none;
+    flex-wrap:nowrap;
+    border: 5px solid rgb(223, 117, 135);
+    font-family:'Times New Roman', Times, serif;
+    list-style-type: none;
+    
     
 
 }
 
 nav {
     border: 2px solid red;
-    font-size: medium;
     text-align: center;
-    padding: 15px;
-    display: inline;
+    padding: 15px; 
+    padding-right: 25px;
+    padding-left: 25px;
+    
+}
+
+
+section {
+    border: 2px solid red;
 }

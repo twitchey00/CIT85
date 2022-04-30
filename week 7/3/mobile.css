@@ -1,4 +1,15 @@
 body {
-    flex-direction: column;
-    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content:flex-start;
+}
+
+nav {
+    display: inline-block;
+    
+}
+
+section {
+    padding-bottom: 150px;
+   
+
 }
