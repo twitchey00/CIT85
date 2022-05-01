@@ -1,0 +1,17 @@
+.border {
+    margin: 0 auto;
+    display: flex;  
+    border: solid red 6px;
+    min-height: 100%;
+    /* min-width: 1024px; */
+    height: 100%;
+    width: 100%;
+    background-image: url(./siberian-husky_Sbolotova_Shutterstock.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    resize: both;
+   
+    
+
+}
+
